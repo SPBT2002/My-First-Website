@@ -17,10 +17,21 @@ Welcome to **Pizza Paradise** – a simple and visually appealing pizza shop web
 - Large banner image to create a welcoming first impression.
 
 ### 🍕 Pizza Menu – `pizza.html`
-- Displays **three combo pizza types**:
+- Display **pizza types**:
   - **Italian Combo**
   - **Beef & Mozzarella Cheese**
   - **Classic**
+  - **Garden Veggie**
+  - **Creamy Garlic Veggie**
+  - **BBQ Chicken**
+  - **Creamy Garlic Chicken**
+  - **Bacon Chicken**
+  - **Creamy Garlic Bacon**
+  - **Pepperoni With Sausage**
+  - **Pepperoni With Beef**
+  - **Side By Side**
+
+
 - Each combo includes image, description, and an **"Order Now"** button.
 
 ### 🧾 About Page – `about.html`
